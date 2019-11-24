@@ -8,7 +8,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TnnRs8JCW4772VzOGSuoeNqKMF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/routes" />
@@ -50,7 +54,7 @@
       <updated>1574104722062</updated>
       <workItem from="1574104723681" duration="6087000" />
       <workItem from="1574413189167" duration="25000" />
-      <workItem from="1574413264280" duration="5920000" />
+      <workItem from="1574413264280" duration="6197000" />
     </task>
     <servers />
   </component>
