@@ -33,7 +33,7 @@
 
 <section class="">
             <h2>Hire Me</h2>
-            <form action="/thank-you">
+            <form action="/thank-you" method="POST">
                 <div><input type="text" class="input" value="" placeholder="Your name" name="email" required></div>
                 <div style="margin-top: 20px;"><input type="text" class="input" value="" placeholder="Budget" name="budget" required></div>
                 <div style="margin-top: 20px;"><input type="text" class="input" value="" placeholder="Time frame" name="time" required></div>

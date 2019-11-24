@@ -10,7 +10,7 @@
 		<li><a href='about'>about</a></li>
 		<li><a href='portfolio'>portfolio</a></li>
 		<li><a href='services'>services</a></li>
-		<li><a href='case-studies'>case studies</a></li>
+		<li><a href='casestudies'>case studies</a></li>
 		<li>
 		    <a href='blog'>blog</a>
 		    <ul>
@@ -20,5 +20,6 @@
 		        <li><a href='/blog/es6-syntax-and-feature-overview'>ES6 Syntax and Feature Overview</a></li>
 		    </ul>
 		</li>
+		<li><a href='hire-me'>hire me</a></li>
 	</ul>
 </nav>
