@@ -1,6 +1,5 @@
 <script>
-	export let segment;
-
+	export let element;
 </script>
 
 <style>
@@ -9,10 +8,11 @@
         max-width: 56em;
         margin: 0 auto;
         box-sizing: border-box;
+        padding: 0 20px;
     }
 </style>
 
-<footer role="footer">
+<footer>
     <div class="main">
         <div class="">
             <a class="" href="mailto:contact@premislaus.xyz?Subject=Get%20in%20touch" target="_top">Get in touch</a>

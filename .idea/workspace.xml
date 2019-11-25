@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="005b7190-fb4a-4bca-bde3-f2478d533b28" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/hire-me.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/hire-me.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/sitemap.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/sitemap.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/_layout.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/_layout.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/about.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/about.svelte" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +59,7 @@
       <updated>1574104722062</updated>
       <workItem from="1574104723681" duration="6087000" />
       <workItem from="1574413189167" duration="25000" />
-      <workItem from="1574413264280" duration="6660000" />
+      <workItem from="1574413264280" duration="8720000" />
     </task>
     <servers />
   </component>
