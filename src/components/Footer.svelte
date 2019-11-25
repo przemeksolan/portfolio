@@ -17,8 +17,9 @@
         <div class="">
             <a class="" href="mailto:contact@premislaus.xyz?Subject=Get%20in%20touch" target="_top">Get in touch</a>
             <div class="float-container" style="float:right">
-                <a class="sm-p" href="https://facebook.com/premislaus">Facebook</a>
-                <a class="" href="https://twitter.com/premislaus">Twitter</a>
+                <a href="https://facebook.com/premislaus">Facebook</a>
+                <a class="sm-p" href="https://twitter.com/premislaus">Twitter</a>
+                <a href="https://www.linkedin.com/in/premislaus/">Linkedin</a>
             </div>
         </div>
         <div class="float-container">

@@ -127,7 +127,18 @@ footer {
 	border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 
+.img-left {
+	width: 200px;
+	border-radius: 50%;
+	top: -100px;
+	position: relative;
+	margin-right: 150px;
+}
 
+.img-right {
+	width: 500px;
+	border-radius: 200px;
+}
 
 @media (min-width: 400px) {
 	body {

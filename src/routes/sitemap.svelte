@@ -10,7 +10,7 @@
 		<li><a href='about'>about</a></li>
 		<li><a href='portfolio'>portfolio</a></li>
 		<li><a href='services'>services</a></li>
-		<li><a href='casestudies'>case studies</a></li>
+		<li><a href='process'>process</a></li>
 		<li>
 		    <a href='blog'>blog</a>
 		    <ul>

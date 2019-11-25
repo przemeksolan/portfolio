@@ -4,4 +4,8 @@
 
 <h2>About</h2>
 
-<p>Sally Bliumis-Dunn teaches Modern Poetry and Creative Writing at Manhattanville College, the Personal Essay at the 92nd Street Y and offers manuscript conferences at the Palm Beach Poetry Festival. She received her B.A. in Russian language and literature from U.C. Berkeley in 1983 and her MFA in Poetry from Sarah Lawrence College in 2002. Her poems have appeared in From the Fishouse, The New York Times, Nimrod, the Paris Review, PBS NewsHour, Plume, Poetry London, Prairie Schooner, RATTLE, the Academy of American Poets’ Poem-a-day, Ted Kooser’s “American Life in Poetry,Verse Daily and Garrison Keillor’s The Writer’s Almanac. In 2002, she was a finalist for the Nimrod/Hardman Pablo Neruda Prize. Her first book, Talking Underwater was published by Wind Publications in 2007. In 2008, she was asked to read in the “Love Poems Program” at the Library of Congress. Her second book, Second Skin was published by Wind Publications in 2010. Her chapbook, Galapagos Poems was published by Kattywompus Press in 2016. Her third book will be published by Plume Editions/MadHat Press in March of 2018. She lives with her husband, John. They share four children, Ben, Angie, Kaitlin and Fiona.</p>
+<img class="img-left" src="https://avatars0.githubusercontent.com/u/9256897?s=460&v=4">
+<img class="img-right" src="https://scontent.fdub2-1.fna.fbcdn.net/v/t1.0-9/18033373_279957815811067_5029262305955752899_n.jpg?_nc_cat=111&_nc_ohc=zisDiDsTpC4AQkFSdrLJk41OZZ8gpU_LT_5wVXSlAkBQM0hIvGt9_IQiA&_nc_ht=scontent.fdub2-1.fna&oh=d247539faf4295c5e042e193af8d8f06&oe=5E49F37A">
+
+<p>Currently studying in Cork Institute of Technology</p>
+<p>Bachelor of Science (Honours) in Web Development</p>

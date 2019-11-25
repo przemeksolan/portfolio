@@ -69,7 +69,7 @@
 		<li><a class:selected='{segment === "about"}' href='about'>about</a></li>
 		<li><a class:selected='{segment === "portfolio"}' href='portfolio'>portfolio</a></li>
 		<li><a class:selected='{segment === "services"}' href='services'>services</a></li>
-		<li><a class:selected='{segment === "case-studies"}' href='case-studies'>case studies</a></li>
+		<li><a class:selected='{segment === "process"}' href='process'>process</a></li>
 
 		<!-- for the blog link, we're using rel=prefetch so that Sapper prefetches
 		     the blog data when we hover over the link or tap it on a touchscreen -->
