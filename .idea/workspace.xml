@@ -3,13 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="005b7190-fb4a-4bca-bde3-f2478d533b28" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Nav.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Nav.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/about.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/about.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/case-studies.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/process.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/services.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/services.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/sitemap.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/sitemap.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/process.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/process.svelte" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +58,7 @@
       <updated>1574104722062</updated>
       <workItem from="1574104723681" duration="6087000" />
       <workItem from="1574413189167" duration="25000" />
-      <workItem from="1574413264280" duration="11516000" />
+      <workItem from="1574413264280" duration="11991000" />
     </task>
     <servers />
   </component>
